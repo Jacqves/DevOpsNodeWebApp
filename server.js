@@ -48,7 +48,7 @@ app.get('/', (req, res) => {
         <h1>👋 Willkommen zum FS2025 DevOps Kurs - Anpassung mit Cloud Deployment!</h1>
         <p>Heute ist <strong>${dayName}, ${dateStr}</strong></p>
         <blockquote>„${quote}“</blockquote>
-        <footer>Deployed mit ❤ auf render.com</footer>
+        <footer>Deployed mit ❤ auf azure portal.com</footer>
       </body>
     </html>
   `);
