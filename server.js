@@ -45,7 +45,7 @@ app.get('/', (req, res) => {
         </style>
       </head>
       <body>
-        <h1>👋 Willkommen zum FS2025 DevOps Kurs!</h1>
+        <h1>👋 Willkommen zum FS2025 DevOps Kurs - Anpassung mit Cloud Deployment!</h1>
         <p>Heute ist <strong>${dayName}, ${dateStr}</strong></p>
         <blockquote>„${quote}“</blockquote>
         <footer>Deployed mit ❤ auf render.com</footer>
